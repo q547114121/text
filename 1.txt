@@ -1,0 +1,3 @@
+我是一个好好学习的好孩子。
+Git is a distributed version control system.
+Git is free software.
